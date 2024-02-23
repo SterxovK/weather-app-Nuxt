@@ -1,0 +1,1 @@
+export { default } from "file:///home/konstantin/petProject/weather-app-nuxt/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
